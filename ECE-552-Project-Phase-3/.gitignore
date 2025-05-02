@@ -1,0 +1,14 @@
+CPU.cr.mti
+CPU.mpf
+control_sig.v.bak
+cpu.v.bak
+immediate_decoder.v.bak
+transcript
+work/
+*.v.bak
+dump.vcd
+verilogsim.log
+verilogsim.trace
+vsim.wlf
+
+
